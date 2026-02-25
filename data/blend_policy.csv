@@ -1,0 +1,13 @@
+vendor,vendor_class,recommended_min,recommended_target,recommended_max,cost_rs_per_thm
+acore_mn_ore_mt,PENALTY,0.0,0.0,0.0,0.0
+geomin_mt,FLEX,6.82,9.62,10.18,599.31
+gomti_mt,PENALTY,0.0,0.0,0.0,0.0
+jrsventures_mt,PENALTY,0.0,0.0,0.0,0.0
+lloyds_fines_mt,FLEX,9.45,10.55,12.54,1138.67
+lloyds_mt,CORE,15.77,15.88,16.58,2228.24
+mn_ore_mt,PENALTY,0.0,0.0,0.0,0.0
+neco_jayaswal_mt,PENALTY,0.0,0.0,0.0,0.0
+nmdc_mt,PENALTY,0.0,0.0,0.0,0.0
+nmdc_rom_mt,PENALTY,0.0,0.0,0.0,0.0
+sinter_sp_02_mt,FLEX,61.96,64.6,66.05,6958.85
+total_pellet_mt,PENALTY,0.0,0.0,0.0,0.0
